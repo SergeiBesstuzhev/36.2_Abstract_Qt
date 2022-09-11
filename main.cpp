@@ -77,5 +77,4 @@ int main(int argc, char *argv[]) {
     QObject::connect(&redButton, &QPushButton::clicked, [](){std::cout << "clicked";});
     redButton.show();
     return QApplication::exec();
-    #include <main.moc>
 }
