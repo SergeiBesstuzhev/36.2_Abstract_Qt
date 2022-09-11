@@ -1,0 +1,8 @@
+# ninja log v5
+4	94	6845853128103222	36_2_Abstract_Qt_autogen/timestamp	2669c936b0ee273c
+4	94	6845853128103222	C:/Users/serge/CLionProjects/36.2_Abstract_Qt/cmake-build-debug/36_2_Abstract_Qt_autogen/mocs_compilation.cpp	2669c936b0ee273c
+4	94	6845853128103222	36_2_Abstract_Qt_autogen/mocs_compilation.cpp	2669c936b0ee273c
+4	94	6845853128103222	C:/Users/serge/CLionProjects/36.2_Abstract_Qt/cmake-build-debug/36_2_Abstract_Qt_autogen/timestamp	2669c936b0ee273c
+233	316	6845769799148444	CMakeFiles/36_2_Abstract_Qt.dir/36_2_Abstract_Qt_autogen/mocs_compilation.cpp.obj	14fd71b5191cc8a1
+97	1510	6845853142254931	CMakeFiles/36_2_Abstract_Qt.dir/main.cpp.obj	fc2e3407e87927dc
+1983	2322	6845769817289735	36_2_Abstract_Qt.exe	d10d9b101e0f985b

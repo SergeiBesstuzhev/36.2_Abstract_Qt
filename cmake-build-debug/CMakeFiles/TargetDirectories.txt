@@ -1,0 +1,5 @@
+C:/Users/serge/CLionProjects/36.2_Abstract_Qt/cmake-build-debug/CMakeFiles/36_2_Abstract_Qt.dir
+C:/Users/serge/CLionProjects/36.2_Abstract_Qt/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/serge/CLionProjects/36.2_Abstract_Qt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/serge/CLionProjects/36.2_Abstract_Qt/cmake-build-debug/CMakeFiles/36_2_Abstract_Qt_autogen_timestamp_deps.dir
+C:/Users/serge/CLionProjects/36.2_Abstract_Qt/cmake-build-debug/CMakeFiles/36_2_Abstract_Qt_autogen.dir
